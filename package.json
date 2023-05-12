@@ -1,0 +1,17 @@
+{
+  "name": "express-ts-skeleton",
+  "version": "1.0.0",
+  "description": "Express with Typescript",
+  "main": "app.ts",
+  "scripts": {
+    "start": "nodemon express-ts-skeleton"
+  },
+  "dependencies": {
+    "express": "latest"
+  },
+  "devDependencies": {
+    "@types/express": "latest",
+    "@types/node": "latest",
+    "typescript": "latest"
+  }
+}
