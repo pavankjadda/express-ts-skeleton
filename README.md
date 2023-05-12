@@ -1,4 +1,4 @@
-## Express and Typescript Skeleton project
+# Express and Typescript Skeleton project
 
 This project demonstrates how to set up a skeleton project using Express and Typescript.
 
@@ -16,7 +16,7 @@ If you do not have `Nodemon` and `ts-node` installed globally, you can install t
 npm install -g nodemon ts-node
 ```
 
-### Getting started
+## Getting started
 
 1. Clone the project
 2. Run `npm install` to install all the dependencies
