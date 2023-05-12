@@ -2,9 +2,10 @@
   "name": "express-ts-skeleton",
   "version": "1.0.0",
   "description": "Express with Typescript",
-  "main": "app.ts",
   "scripts": {
-    "start": "nodemon express-ts-skeleton"
+    "start": "node dist/app.js",
+    "dev": "nodemon src/app.ts",
+    "build": "npx tsc"
   },
   "dependencies": {
     "express": "latest"
