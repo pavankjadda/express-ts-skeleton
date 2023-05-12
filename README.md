@@ -19,6 +19,6 @@ npm install -g nodemon ts-node
 ## Getting started
 
 1. Clone the project
-2. Run `npm install` to install all the dependencies
-3. Run `npm run dev` to start the server
+2. Run `pnpm install` to install all the dependencies
+3. Run `pnpm run dev` to start the server
 4. Open your browser and navigate to `http://localhost:3000`
