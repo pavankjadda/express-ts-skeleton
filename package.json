@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "Express with Typescript",
   "scripts": {
-    "start": "node dist/app.js",
     "dev": "nodemon src/app.ts",
+    "start": "node dist/app.js",
     "build": "npx tsc"
   },
   "dependencies": {
