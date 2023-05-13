@@ -8,11 +8,13 @@
     "build": "npx tsc"
   },
   "dependencies": {
+    "@prisma/client": "4.14.0",
     "express": "latest"
   },
   "devDependencies": {
     "@types/express": "latest",
     "@types/node": "latest",
+    "prisma": "^4.14.0",
     "typescript": "latest"
   }
 }
