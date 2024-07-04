@@ -13,14 +13,14 @@ This project demonstrates how to set up a skeleton project using Express and Typ
 If you do not have `Nodemon` and `ts-node` installed globally, you can install them by running the following command:
 
 ```
-npm install -g nodemon ts-node
+npm i -g nodemon ts-node
 ```
 
 ## Getting started
 
 1. Clone the project
-2. Run `pnpm install` to install all the dependencies
-3. Run `pnpm run dev` to start the server
+2. Run `npm i` to install all the dependencies
+3. Run `npm run dev` to start the server
 4. Open your browser and navigate to `http://localhost:3000`
 5. http://localhost:3000/employee/create to create an employee
 6. http://localhost:3000/employee/all to get all employees
